@@ -1,0 +1,6 @@
+&BANDS
+  prefix = 'graphene'
+  outdir = './tmp/'
+  filband = 'graphene_band.dat'
+/
+
