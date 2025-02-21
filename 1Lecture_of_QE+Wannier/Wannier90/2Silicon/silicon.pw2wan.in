@@ -1,0 +1,6 @@
+&inputpp
+    outdir = './tmp'
+    prefix = 'silicon'
+    seedname = 'silicon'
+    write_unk = .true.
+/
