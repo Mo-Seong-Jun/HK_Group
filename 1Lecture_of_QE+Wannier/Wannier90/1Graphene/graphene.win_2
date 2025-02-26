@@ -4,12 +4,13 @@ num_wann        = 2
 ! Narrow the energy windows to isolate the bands of interest.
 !dis_win_min     =  4.0 
 !dis_win_max     =  9.0
-!dis_froz_min    =  5.0
+dis_froz_min    = -3.0
 dis_froz_max    =  3.0
 
 restart = plot
 wannier_plot =  true
 wannier_plot_list = 1, 2
+write_hr = true
 
 begin projections
    C : pz
