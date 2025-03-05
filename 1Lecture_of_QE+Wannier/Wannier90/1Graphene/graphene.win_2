@@ -19,7 +19,7 @@ end projections
 begin unit_cell_cart
    2.46    0.00    0.00
    1.23    2.13    0.00
-   0.00    0.00   10.2
+   0.00    0.00   15.00
 end unit_cell_cart
 
 begin atoms_frac
